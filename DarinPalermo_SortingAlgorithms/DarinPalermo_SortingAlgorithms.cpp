@@ -388,6 +388,6 @@ int main()
 		}
 		if (amountOfNodes == AMOUNT_TO_START) { amountOfNodes = 0; }
 		amountOfNodes += AMOUNT_TO_INCREMENT;
-	}
+	} 
 }
 
